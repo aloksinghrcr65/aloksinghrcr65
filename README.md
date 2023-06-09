@@ -3,7 +3,7 @@
 </div
 Label-Color
 <div id="badges">
-  <
+  
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logocolor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
