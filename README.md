@@ -1,36 +1,82 @@
-# 👋 Hi, I’m **Alok Singh**  
+# 🚀 **Alok Singh** | Software Developer  
 
-## 👀 About Me  
-🚀 **Passionate Software Developer** | **MERN Stack | Node.js | Java | Python**  
+![Profile Views](https://komarev.com/ghpvc/?username=aloksinghrcr65&label=Profile+Views&color=0e75b6&style=flat)  
+![GitHub Followers](https://img.shields.io/github/followers/aloksinghrcr65?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/aloksinghrcr65?style=social)  
 
+## 💡 About Me  
 🔹 **Associate Software Engineer at ENS Enterprises**  
-🔹 Skilled in **Java, Python, C, Node.js, Express.js, MongoDB, React.js, Firebase**  
-🔹 Experience with **Web Development, API Development, Authentication, and Databases**  
+🔹 Passionate about **Web Development, API Development, Authentication, and Databases**  
+🔹 Skilled in **MERN Stack, Node.js, Java, Python, Firebase**  
+🔹 Love solving problems and building scalable applications  
 
 ---
 
-## 💻 **Tech Stack**  
-🔥 **Languages:** Java, Python, C, JavaScript  
-⚡ **Backend:** Node.js, Express.js, Firebase  
-🖥️ **Frontend:** React.js, Vue.js, EJS, Liquid  
-💾 **Databases:** MongoDB, MySQL, Firebase Firestore  
-🔑 **Authentication:** JWT, Passport.js, OTP-based Login  
-🛠️ **Tools & Platforms:** GitHub, Postman, VS Code, Docker  
+## ⚡ Tech Stack  
+
+### 💻 Programming Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
+
+### 🖥️ Frontend  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)  
+![EJS](https://img.shields.io/badge/EJS-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)  
+![Liquid](https://img.shields.io/badge/Liquid-%23F56040.svg?style=for-the-badge&logo=liquid&logoColor=white)  
+
+### 💾 Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Firebase Firestore](https://img.shields.io/badge/Firestore-%23FF6D00.svg?style=for-the-badge&logo=firebase&logoColor=white)  
+
+### 🔑 Authentication & Security  
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
+![Passport.js](https://img.shields.io/badge/Passport.js-%2300BCB4.svg?style=for-the-badge&logo=passport&logoColor=white)  
+
+### 🛠 Tools & Platforms  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
-## 📌 **Projects**  
-🚀 **[Conference Management System](#)** - A MERN Stack app for managing conferences with user authentication, scheduling, and feedback.  
-💡 **[ATM Simulator System](#)** - A Java and MySQL-based project simulating ATM functionalities.  
-🛠️ **[CPU Scheduling Simulator](#)** - A Java-based project to visualize CPU scheduling algorithms.  
-🧠 **[Drowsiness Detection](#)** - A Python ML project to detect driver drowsiness and alert them.  
+## 📌 Projects  
+
+📌 **[Conference Management System](#)**  
+_A MERN Stack app for managing conferences with user authentication, scheduling, and feedback._  
+
+📌 **[ATM Simulator System](#)**  
+_A Java and MySQL-based project simulating ATM functionalities._  
+
+📌 **[CPU Scheduling Simulator](#)**  
+_A Java-based project to visualize CPU scheduling algorithms._  
+
+📌 **[Drowsiness Detection](#)**  
+_A Python ML project to detect driver drowsiness and alert them._  
 
 ---
 
-## 📫 **Get in Touch**  
-💼 [**LinkedIn**](https://www.linkedin.com/in/alok-singh)  
-📧 [**Email**](mailto:aloksinghrcr65@gmail.com)  
-🔗 [**Portfolio**](https://aloktech.vercel.app/)
+## 📊 GitHub Stats  
 
+![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aloksinghrcr65&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aloksinghrcr65&layout=compact&theme=dark)  
+
+---
+
+## 📫 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-singh)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aloksinghrcr65@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox&logoColor=white)](#) *(Coming Soon!)*  
+
+---
 
 🌟 **Let's Connect & Build Something Amazing!** 🚀  
