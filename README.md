@@ -1,18 +1,20 @@
-# 🚀 **Alok Singh** | Software Developer  
+# <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50"> **Alok Singh | Software Developer**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aloksinghrcr65&label=Profile+Views&color=0e75b6&style=flat)  
 ![GitHub Followers](https://img.shields.io/github/followers/aloksinghrcr65?style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/aloksinghrcr65?style=social)  
 
-## 💡 About Me  
+## **💡 About Me**  
 🔹 **Associate Software Engineer at ENS Enterprises**  
 🔹 Passionate about **Web Development, API Development, Authentication, and Databases**  
 🔹 Skilled in **MERN Stack, Node.js, Java, Python, Firebase**  
 🔹 Love solving problems and building scalable applications  
 
+> **_“Coding is the closest thing we have to superpowers! 💻✨”_**  
+
 ---
 
-## ⚡ Tech Stack  
+## **⚡ Tech Stack**  
 
 ### 💻 Programming Languages  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
@@ -29,6 +31,7 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)  
 ![EJS](https://img.shields.io/badge/EJS-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)  
+![Liquid](https://img.shields.io/badge/Liquid-%23F56040.svg?style=for-the-badge&logo=liquid&logoColor=white)  
 
 ### 💾 Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
@@ -47,7 +50,7 @@
 
 ---
 
-## 📌 Projects  
+## **📌 Featured Projects**  
 
 📌 **[Conference Management System](#)**  
 _A MERN Stack app for managing conferences with user authentication, scheduling, and feedback._  
@@ -63,14 +66,14 @@ _A Python ML project to detect driver drowsiness and alert them._
 
 ---
 
-## 📊 GitHub Stats  
+## **📊 GitHub Stats**  
 
 ![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aloksinghrcr65&show_icons=true&theme=dark&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aloksinghrcr65&layout=compact&theme=dark)  
 
 ---
 
-## 📫 Let's Connect  
+## **📫 Let's Connect**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-singh)  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aloksinghrcr65@gmail.com)  
@@ -78,4 +81,4 @@ _A Python ML project to detect driver drowsiness and alert them._
 
 ---
 
-🌟 **Let's Connect & Build Something Amazing!** 🚀  
+### **✨ _Keep Learning & Keep Building! 🚀_**  
