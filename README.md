@@ -30,6 +30,6 @@
 ## 📫 **Get in Touch**  
 💼 [**LinkedIn**](https://www.linkedin.com/in/aloksinghrcr65)  
 📧 [**Email**](mailto:aloksinghrcr65@gmail.com)  
-🔗 [**Portfolio**](#) *(https://aloktech.vercel.app/)*  
+🔗 [**Portfolio**](https://aloktech.vercel.app/)
 
 🌟 **Let's Connect & Build Something Amazing!** 🚀  
