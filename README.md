@@ -31,7 +31,6 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)  
 ![EJS](https://img.shields.io/badge/EJS-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)  
-![Liquid](https://img.shields.io/badge/Liquid-%23F56040.svg?style=for-the-badge&logo=liquid&logoColor=white)  
 
 ### 💾 Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
@@ -50,19 +49,18 @@
 
 ---
 
-## **📌 Featured Projects**  
+## **📌 Projects**  
 
-📌 **[Conference Management System](#)**  
-_A MERN Stack app for managing conferences with user authentication, scheduling, and feedback._  
+### **🛠️ Backend Development**  
+🔹 **[RBAC Backend](https://github.com/aloksinghrcr65/rbac_backend)** – Role-Based Access Control system for managing user roles and permissions in a secure way.  
+🔹 **[Employee Dashboard API](https://github.com/aloksinghrcr65/emp_backend_dashboard)** – A backend system for managing employees, authentication, and admin functionalities.  
 
-📌 **[ATM Simulator System](#)**  
-_A Java and MySQL-based project simulating ATM functionalities._  
 
-📌 **[CPU Scheduling Simulator](#)**  
-_A Java-based project to visualize CPU scheduling algorithms._  
-
-📌 **[Drowsiness Detection](#)**  
-_A Python ML project to detect driver drowsiness and alert them._  
+### **💻 Software Development Projects**  
+🔹 **[Hospital Management System](https://github.com/aloksinghrcr65/hospital-management-system)** – A system to manage hospital workflows, including patient records, appointments, and doctor schedules.  
+🔹 **[ATM Simulator System](https://github.com/aloksinghrcr65/ATM-Simulator-System)** – Simulates the functionalities of an ATM, built with Java and MySQL.  
+🔹 **[CPU Scheduling Simulator](https://github.com/aloksinghrcr65/CPU-Scheduling-Simulator)** – A simulator for CPU scheduling algorithms, implemented in Java.  
+🔹 **[Driver Drowsiness Detection](https://github.com/aloksinghrcr65/Driver_Drowsiness_Detection)** – Uses machine learning to detect drowsiness in drivers and issue alerts.  
 
 ---
 
