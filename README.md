@@ -29,7 +29,6 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)  
 ![EJS](https://img.shields.io/badge/EJS-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)  
-![Liquid](https://img.shields.io/badge/Liquid-%23F56040.svg?style=for-the-badge&logo=liquid&logoColor=white)  
 
 ### 💾 Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
@@ -75,7 +74,7 @@ _A Python ML project to detect driver drowsiness and alert them._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-singh)  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aloksinghrcr65@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox&logoColor=white)](#) *(Coming Soon!)*  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://aloktech.vercel.app/)  
 
 ---
 
