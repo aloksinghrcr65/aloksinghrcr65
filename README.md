@@ -10,7 +10,8 @@
 🔹 Skilled in **MERN Stack, Node.js, Java, Python, Firebase**  
 🔹 Love solving problems and building scalable applications  
 
-> **_“Coding is the closest thing we have to superpowers! 💻✨”_**  
+> **_“![Animated Coding Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F7B93E&width=435&lines=Coding+is+the+closest+thing+to+superpowers!💻✨;Keep+Learning+Keep+Building!🚀)
+! 💻✨”_**  
 
 ---
 
@@ -81,4 +82,4 @@ _A Python ML project to detect driver drowsiness and alert them._
 
 ---
 
-![Animated Coding Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F7B93E&width=435&lines=Coding+is+the+closest+thing+to+superpowers!💻✨;Keep+Learning+Keep+Building!🚀)
+### **✨ _Let's Connect & Build Something Amazing! 🚀_**  
