@@ -52,15 +52,24 @@
 ## **📌 Projects**  
 
 ### **🛠️ Backend Development**  
-🔹 **[RBAC Backend](https://github.com/aloksinghrcr65/rbac_backend)** – Role-Based Access Control system for managing user roles and permissions in a secure way.  
-🔹 **[Employee Dashboard API](https://github.com/aloksinghrcr65/emp_backend_dashboard)** – A backend system for managing employees, authentication, and admin functionalities.  
+🔹 **[RBAC Backend](https://github.com/aloksinghrcr65/rbac_backend)**  
+_A Role-Based Access Control system for managing user roles and permissions in a secure way._  
 
+🔹 **[Employee Dashboard API](https://github.com/aloksinghrcr65/emp_backend_dashboard)**  
+_A backend system for managing employees, authentication, and admin functionalities._  
 
 ### **💻 Software Development Projects**  
-🔹 **[Hospital Management System](https://github.com/aloksinghrcr65/hospital-management-system)** – A system to manage hospital workflows, including patient records, appointments, and doctor schedules.  
-🔹 **[ATM Simulator System](https://github.com/aloksinghrcr65/ATM-Simulator-System)** – Simulates the functionalities of an ATM, built with Java and MySQL.  
-🔹 **[CPU Scheduling Simulator](https://github.com/aloksinghrcr65/CPU-Scheduling-Simulator)** – A simulator for CPU scheduling algorithms, implemented in Java.  
-🔹 **[Driver Drowsiness Detection](https://github.com/aloksinghrcr65/Driver_Drowsiness_Detection)** – Uses machine learning to detect drowsiness in drivers and issue alerts.  
+🔹 **[Hospital Management System](https://github.com/aloksinghrcr65/hospital-management-system)**  
+_A system to manage hospital workflows, including patient records, appointments, and doctor schedules._  
+
+🔹 **[ATM Simulator System](https://github.com/aloksinghrcr65/ATM-Simulator-System)**  
+_Simulates the functionalities of an ATM, built with Java and MySQL._  
+
+🔹 **[CPU Scheduling Simulator](https://github.com/aloksinghrcr65/CPU-Scheduling-Simulator)**  
+_A simulator for CPU scheduling algorithms, implemented in Java._  
+
+🔹 **[Driver Drowsiness Detection](https://github.com/aloksinghrcr65/Driver_Drowsiness_Detection)**  
+_Uses machine learning to detect drowsiness in drivers and issue alerts._ 
 
 ---
 
