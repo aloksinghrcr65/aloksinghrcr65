@@ -1,7 +1,6 @@
 👋 Hi, I’m Alok Singh
 
 👀 About Me
-
 🚀 Passionate Software Developer | MERN Stack | Node.js | Java | Python
 
 🔹 Associate Software Engineer at ENS Enterprises
