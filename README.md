@@ -10,8 +10,7 @@
 🔹 Skilled in **MERN Stack, Node.js, Java, Python, Firebase**  
 🔹 Love solving problems and building scalable applications  
 
-> **_“![Animated Coding Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F7B93E&width=435&lines=Coding+is+the+closest+thing+to+superpowers!💻✨;Keep+Learning+Keep+Building!🚀)
-! 💻✨”_**  
+> **_“ ![Animated Coding Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F7B93E&width=600&lines=Coding+is+the+closest+thing+to+superpowers!💻✨;Keep+Learning+Keep+Building!🚀;Code+Sleep+Repeat!🔥;Turning+Coffee+into+Code!☕💻;Debugging+is+like+being+a+detective!🕵️‍♂️)_ ”**
 
 ---
 
