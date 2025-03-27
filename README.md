@@ -28,8 +28,8 @@
 ---
 
 ## 📫 **Get in Touch**  
-💼 [**LinkedIn**](https://www.linkedin.com/in/aloksinghrcr65)  
-📧 [**Email**](mailto:aloksinghrcr65@gmail.com)  
-🔗 [**Portfolio**](https://aloktech.vercel.app/)
+💼 <a href="https://www.linkedin.com/in/alok-singh" target="_blank">**LinkedIn**</a>  
+📧 <a href="mailto:aloksinghrcr65@gmail.com" target="_blank">**Email**</a>  
+🔗 <a href="[#](https://aloktech.vercel.app/)" target="_blank">**Portfolio**</a>  
 
 🌟 **Let's Connect & Build Something Amazing!** 🚀  
