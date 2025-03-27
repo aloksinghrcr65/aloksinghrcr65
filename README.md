@@ -81,4 +81,4 @@ _A Python ML project to detect driver drowsiness and alert them._
 
 ---
 
-### **✨ _Keep Learning & Keep Building! 🚀_**  
+![Animated Coding Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F7B93E&width=435&lines=Coding+is+the+closest+thing+to+superpowers!💻✨;Keep+Learning+Keep+Building!🚀)
